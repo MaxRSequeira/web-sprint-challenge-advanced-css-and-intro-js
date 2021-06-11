@@ -23,9 +23,22 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+Web accessibility in a nutshell is a practice in web development that caters to a broad range of people. This broad range of people includes those with disabillities that affect their way of seeing, using, and overall experience when going on a website. Colorblindness, hearing impairment, legal blindness, etc... affects an individual's way of utilizing a website. The whole point of accessibility is to give everyone as much benefit from the website as the average person. Because the average person, at the end of the day, is unique as it is. A website that caters to a broad variety of people is one that can truly be considered accessible. It's like having the wheelchair ramp to your establishment, even if you've yet to cater to a wheel-chair reliant person.
+
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+Semantic coding optimizes lesser known web functions, like the reader for the visually impaired. Another is to cater to the fact that there are people out there that can't physically perceive the difference between red and green. There's even others out there that have to rely on voice commands to navigate a page. Bearing this in mind and accommodating things like this will help to ensure your website is accessible.
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+To someone new at programming, I'd like to start by saying a variable is a "random" piece of information you're either setting the value to yourself, finding in a calculation, or being provided later on down the road. There's variables that are constant\permanently set as a certain value, and others that change as the code and data progresses. Clearly labeling a variable will aid in maintaining that the designation is discernable later.
+
+
 4. What is the purpose of using functions in code?
+A function is a program. You set up some rules and a command for what you want to do, then run some sort of value\variable through the list of commands\rules to manipulate it in some way. 
+
+
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
